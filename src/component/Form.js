@@ -71,7 +71,6 @@ class Form extends React.Component{
         <img src={this.state.img}/>
           </div>
           <div className="card-footer text-muted">
-            by: marquitobb
           </div>
         </div>
         );
